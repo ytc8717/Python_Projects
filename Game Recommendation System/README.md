@@ -1,6 +1,6 @@
 # Game Recommendation System (Python)
 
-- A Game Recommendation System written in Python using Nearest Neighbor item-based Collaborative Filtering
+- A game recommendation system written in python using nearest-neighbor item-based collaborative filtering
 
 Reference:
 - https://www.kaggle.com/datasets/tamber/steam-video-games?datasetId=915&language=Python
